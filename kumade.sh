@@ -1,6 +1,6 @@
 #!/bin/sh
 
-FILENAME='event.txt'
+FILENAME='path/to/event.txt'
 
 cat $FILENAME | while read LINE
 do
